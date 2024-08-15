@@ -1,0 +1,11 @@
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\bin\Debug\net8.0\AssociacaoBack.Domain.deps.json
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\bin\Debug\net8.0\AssociacaoBack.Domain.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\bin\Debug\net8.0\AssociacaoBack.Domain.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.AssemblyInfo.cs
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\refint\AssociacaoBack.Domain.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\AssociacaoBack.Domain.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Domain\obj\Debug\net8.0\ref\AssociacaoBack.Domain.dll

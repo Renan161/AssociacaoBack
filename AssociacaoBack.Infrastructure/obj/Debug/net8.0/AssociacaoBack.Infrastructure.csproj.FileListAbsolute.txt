@@ -1,0 +1,15 @@
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\bin\Debug\net8.0\AssociacaoBack.Infrastructure.deps.json
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\bin\Debug\net8.0\AssociacaoBack.Infrastructure.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\bin\Debug\net8.0\AssociacaoBack.Infrastructure.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\bin\Debug\net8.0\AssociacaoBack.Domain.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\bin\Debug\net8.0\AssociacaoBack.Domain.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.AssemblyInfo.cs
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\Associac.BAEAE7BA.Up2Date
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\refint\AssociacaoBack.Infrastructure.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\AssociacaoBack.Infrastructure.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Infrastructure\obj\Debug\net8.0\ref\AssociacaoBack.Infrastructure.dll

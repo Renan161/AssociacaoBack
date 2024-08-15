@@ -1,0 +1,50 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "AssociacaoBack.Application/1.0.0": {
+        "dependencies": {
+          "AssociacaoBack.Domain": "1.0.0",
+          "AssociacaoBack.Infrastructure": "1.0.0"
+        },
+        "runtime": {
+          "AssociacaoBack.Application.dll": {}
+        }
+      },
+      "AssociacaoBack.Domain/1.0.0": {
+        "runtime": {
+          "AssociacaoBack.Domain.dll": {}
+        }
+      },
+      "AssociacaoBack.Infrastructure/1.0.0": {
+        "dependencies": {
+          "AssociacaoBack.Domain": "1.0.0"
+        },
+        "runtime": {
+          "AssociacaoBack.Infrastructure.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AssociacaoBack.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssociacaoBack.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "AssociacaoBack.Infrastructure/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

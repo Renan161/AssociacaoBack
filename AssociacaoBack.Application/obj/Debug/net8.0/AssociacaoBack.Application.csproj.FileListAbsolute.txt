@@ -1,0 +1,17 @@
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Application.deps.json
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Application.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Application.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Domain.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Infrastructure.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Domain.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\bin\Debug\net8.0\AssociacaoBack.Infrastructure.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.csproj.AssemblyReference.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.AssemblyInfoInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.AssemblyInfo.cs
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.csproj.CoreCompileInputs.cache
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\Associac.5A4BC2F9.Up2Date
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\refint\AssociacaoBack.Application.dll
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\AssociacaoBack.Application.pdb
+C:\Users\renan\source\repos\Associacao\AssociacaoBack\AssociacaoBack.Application\obj\Debug\net8.0\ref\AssociacaoBack.Application.dll

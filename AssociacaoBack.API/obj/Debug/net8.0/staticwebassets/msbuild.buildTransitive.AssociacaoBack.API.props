@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\AssociacaoBack.API.props" />
+</Project>
